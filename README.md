@@ -1,2 +1,2 @@
-# CODINGDOJO_Predicci-n_de_Ventas
+# CODINGDOJO_Predicción_de_Ventas
 Predicción de Ventas de Productos (CODINGDOJO)
